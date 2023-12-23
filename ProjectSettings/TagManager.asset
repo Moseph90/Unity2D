@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - PowerUps
+  - Barrier
+  - PlayerProjectile
+  - EnemyProjectile
+  - Enemy
+  - Squish
+  - Archer
+  - Walker
+  - WinCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - PowerUps
+  - Wall
+  - Archer
+  - Walker
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2261004179
+    locked: 0
+  - name: PlayerLayer
+    uniqueID: 88771567
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
